@@ -1,3 +1,7 @@
+
+> 感谢闽高联 AB 帮助我将这篇教程转移至Github Repository
+> 本教程作者 某个草 ，原文位置 https://hi-ysumc.feishu.cn/wiki/QDJBwtCBEi5eLakfWCvcRtErnvb?from=from_copylink 请勿二次转载。
+
 # 展示实体编辑功能
 
 # 引言
