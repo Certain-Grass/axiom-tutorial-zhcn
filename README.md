@@ -4,7 +4,7 @@
 
 原作者 某个草 
 
-原文位置（https://hi-ysumc.feishu.cn/wiki/QDJBwtCBEi5eLakfWCvcRtErnvb?from=from_copylink）
+原文位置**（https://hi-ysumc.feishu.cn/wiki/QDJBwtCBEi5eLakfWCvcRtErnvb?from=from_copylink）**
 
 该模组更新频繁，若有更新，请以原文位置为准。
 
